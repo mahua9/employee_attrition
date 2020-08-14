@@ -1,0 +1,2 @@
+# employee_attrition
+Companies firing hundreds and thousands of Employees is a typical headline today. Cutting down employees or reducing an employee salary is a tough decision to take. It needs to be taken with utmost care as imprecision in the identification of employees whose performance is attriting may lead to sabotaging of both employees' career and the company's reputation in the market.  Aim:- To predict Employee Attrition by the given data about his/her past history.
